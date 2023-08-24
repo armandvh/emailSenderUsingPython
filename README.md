@@ -31,7 +31,7 @@ cd emailSender
 
 3. Run the application:
 
-python email_sender.py
+python main.py
 
 
 ### Usage
