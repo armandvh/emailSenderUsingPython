@@ -1,4 +1,4 @@
-# Simple Email Sender Using Python
+# MoneyMailer: Efficient Python Email Sender
 
 This is a simple email sender application built using Python and the Tkinter library. It allows you to send emails using your Gmail account through a graphical user interface (GUI).
 
