@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local directory for venv (virtual environment)
+venv/
+
+# Editor-specific files
+.vscode/
+*.idea/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Compiled GUI resource files (if any)
+*.pyw
+*.pyz
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# macOS specific files
+.DS_Store
+
+# Compiled binaries and executables
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Compiled C extensions
+*.c
+*.h
+*.cpp
+*.o
+
+# Backup and temp files
+*~
+*.bak
+*.tmp
