@@ -10,7 +10,8 @@ from email.mime.text import MIMEText
 window = Tk()
 window.title("Simple Email Sender Using Python")
 window.geometry("800x600")
-
+window.minsize(600,350)
+window.resizable(width=False,height=True)
 #Connecting to Gmail Server Using SSL
 def email_sender():
     # Creating Massage Context ( Note that you need to generate a app password in order to send gmail
