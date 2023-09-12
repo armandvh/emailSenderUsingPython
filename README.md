@@ -21,18 +21,20 @@ This is a simple email sender application built using Python and the Tkinter lib
 ### Installation
 
 1. Clone this repository:
-
-git clone https://github.com/armandvh/emailSenderUsingPython.git
-
-
+   ```
+   git clone https://github.com/armandvh/emailSenderUsingPython.git
+   ```
+   
 2. Navigate to the project directory:
 
-cd emailSender
-
+   ```
+   cd emailSender
+   ```
+   
 3. Run the application:
-
-python main.py
-
+   ```
+   python main.py
+   ```
 
 ### Usage
 
